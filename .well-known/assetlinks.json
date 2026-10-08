@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.charlievoice14.twa",
+    "sha256_cert_fingerprints": ["67:86:60:F6:3C:FF:E3:A9:5E:0B:12:75:CC:DC:A9:B8:8A:A8:12:6D:D7:25:9A:F2:AA:B5:FC:27:C6:7A:9C:E5"]
+  }
+}]
